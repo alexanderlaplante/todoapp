@@ -1,0 +1,27 @@
+1. Install Mongo - done
+  - Note: Mongo path is in root of "Macintosh HD" - in the data folder
+  - Install required packages
+  - Setup Webpack
+2. Content to mongo
+3. Create express endpoint
+  a. login/authenticate/register
+  b. crud ops on todo items
+  c. passport.js
+4. Setup angular 4
+5. Wire up service calls
+6. Setup inversify
+
+
+Mongo -
+Open Terminal
+Go to /data/db
+Run: mongod
+Open new terminal tab
+Run: mongo <name of database this param is optional>
+
+
+
+Step 1: Install Mongo
+Step 2: Setup package.json
+Step 3: Setup Webpack
+Step 3: Setup TS Config
